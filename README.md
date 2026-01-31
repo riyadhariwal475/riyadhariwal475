@@ -1,4 +1,10 @@
 ## Hi there 👋
+I am Riya Dhariwal a tech-focused marketer working on websites, automations, and campaign infrastructure. I build scalable, performance-driven digital systems with a strong focus on tracking, usability, and clean execution.
+
+Website Softwares: WordPress, HTML, CSS
+SEO Tracking: Google Search Console, Google Analytics, SemRush, Google Keywords
+Automation Tools: Make, N8N
+Design: Canva, Adobe Photoshop, Adobe After Effects, Capcut
 
 <!--
 **riyadhariwal475/riyadhariwal475** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
