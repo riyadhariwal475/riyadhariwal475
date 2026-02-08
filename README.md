@@ -1,6 +1,14 @@
 ## Hi there 👋
 I am Riya Dhariwal a tech-focused marketer working on websites, automations, and campaign infrastructure. I build scalable, performance-driven digital systems with a strong focus on tracking, usability, and clean execution.
 
+### 🌐 Websites Built
+
+- **B.K. Khemka & Co.**  (https://bkkhemka.com)  
+  *Designed and developed the official website, focusing on professional branding, service clarity, and client conversion.*
+
+- **Xavier’s Consulting Club**  (https://xaviersconsultingclub.in)  
+  *Built and maintained the official club website, including structure, content layout, and deployment.*
+
 # 💻 Softwares:
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) <br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)  
